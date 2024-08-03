@@ -6,7 +6,6 @@
 Connect with me:
 
 [Telegram: @sanjar_ametov1ch](https://t.me/sanjar_ametov1ch)
-
 [Instagram: @sanjar_ametov1ch](https://www.instagram.com/sanjar_ametov1ch)
 
 ## Languages and Tools:
@@ -23,6 +22,3 @@ Connect with me:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjar-ametovich&layout=compact)
