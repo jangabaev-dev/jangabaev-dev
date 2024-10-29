@@ -4,6 +4,7 @@
 - 
 Connect with me:
 [Telegram: @sanjar_ametov1ch](https://t.me/sanjar_ametov1ch)
+
 [Instagram: @sanjar_ametov1ch](https://www.instagram.com/sanjar_ametov1ch)
 
 ## Languages and Tools:
